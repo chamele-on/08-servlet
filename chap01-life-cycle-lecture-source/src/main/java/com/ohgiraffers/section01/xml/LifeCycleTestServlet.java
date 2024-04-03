@@ -47,6 +47,5 @@ public class LifeCycleTestServlet extends HttpServlet {
         *   */
         System.out.println("xml 매핑 init() 메소드 호출 : " + initCount++);
 
-
     }
 }
